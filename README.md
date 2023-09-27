@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluebirdxday&count_bg=%237900FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bluebirdxday)
 
 
-<img width="60%" src="https://github.com/bluebirdxday/bluebirdxday/assets/101131054/a49e37dc-81e2-4a24-a4a4-1e6f8517efad.gif"/>
+<img width="80%" src="https://github.com/bluebirdxday/bluebirdxday/assets/101131054/a49e37dc-81e2-4a24-a4a4-1e6f8517efad.gif"/>
 <br></br>
 <div>
 - 도전적인 목표를 세우고, 부딪히며 체화하는 과정을 즐깁니다.
