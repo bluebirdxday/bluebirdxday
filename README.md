@@ -43,7 +43,6 @@
 <br></br>
 <br></br>
 
-![jeonheuijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebirdxday&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebirdxday&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebirdxday&langs_count=8&layout=compact&theme=dark)](https://github.com/bluebirdxday)
 
 </div>
