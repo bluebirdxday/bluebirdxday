@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# Hi, I'm HeuiJin 👋
+<h1 align="center"> Hi, I'm HeuiJin 👋 </h1>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluebirdxday&count_bg=%237900FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bluebirdxday)
 
 
@@ -12,11 +13,12 @@
   <br>
 - 커뮤니케이션과 문서화를 적극 활용해 효율적으로 개발하는 것을 추구합니다.
   <br>
-- Java를 기반으로 한 다양한 웹 프로젝트를 개발합니다.
+- Java를 기반으로 한 다양한 웹 서비스를 개발합니다.
 </div>
 
 <br><br/>
-## Tech Stack
+
+<h2 align="center"> Tech Stack </h2>
 
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -32,7 +34,7 @@
 
 <br></br>
 
-## DevOps
+<h2 align="center"> DevOps </h2>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
