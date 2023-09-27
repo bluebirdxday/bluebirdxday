@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1 align="center"> Hi, I'm HeuiJin 👋 </h1>
+# Hi, I'm HeuiJin 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluebirdxday&count_bg=%237900FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bluebirdxday)
 
@@ -18,7 +18,7 @@
 
 <br><br/>
 
-<h2 align="center"> Tech Stack </h2>
+## Tech Stack 
 
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 <br></br>
 
-<h2 align="center"> DevOps </h2>
+## DevOps
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
